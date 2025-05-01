@@ -11,18 +11,18 @@ A full-stack application that tracks users' video-watching progress, resumes pla
 
 ### 1. Clone the Repository
 
-###### git clone https://github.com/Akshu2828/VideoProgressTracker.git
-cd video-progress-tracker
+##### git clone https://github.com/Akshu2828/VideoProgressTracker.git
+##### cd video-progress-tracker
 
 ### 2. Backend Setup
-cd backend
-npm install
-npm run dev 
+##### cd backend
+##### npm install
+##### npm run dev 
 
 ### 3. Frontend Setup
-cd frontend
-npm install
-npm run dev
+##### cd frontend
+##### npm install
+##### npm run dev
 
 ### Now you're ready to go 🚀
 
