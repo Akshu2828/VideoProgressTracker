@@ -11,7 +11,7 @@ A full-stack application that tracks users' video-watching progress, resumes pla
 
 ### 1. Clone the Repository
 
-git clone https://github.com/Akshu2828/VideoProgressTracker.git
+git clone https://github.com/Akshu2828/VideoProgressTracker.git,
 cd video-progress-tracker
 
 ### 2. Backend Setup
